@@ -9,8 +9,8 @@ To develop a neural network regression model for the given dataset.
 Explain the problem statement
 
 ## Neural Network Model
+<img width="1099" height="643" alt="image" src="https://github.com/user-attachments/assets/cb552d51-1eda-4237-b43b-71d8a5d2cd1f" />
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
@@ -43,8 +43,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name:Rithika K
+### Register Number:212224230230
 ```python
 class NeuralNet(nn.Module):
     def __init__(self):
@@ -64,19 +64,18 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ```
 ## Dataset Information
-
-Include screenshot of the dataset
+<img width="434" height="455" alt="image" src="https://github.com/user-attachments/assets/43b5ac8f-ad05-40de-a2af-56100224de8a" />
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+<img width="741" height="270" alt="image" src="https://github.com/user-attachments/assets/26a9cf82-1ce7-4f5e-ba4a-2ab19df6d422" />
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
 
 ## RESULT
-
+The neural network regression model was successfully trained and evaluated. The model demonstrated strong predictive performance on unseen data, with a low error rate.
 Include your result here
